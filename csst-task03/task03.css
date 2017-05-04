@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: #68cdd5;
+    font-size: 625%;
+    color: #ffffff;
+}
+.back-icon{
+    width: .27rem;
+    height: .27rem;
+    margin: 0.1rem 0.18rem;
+    background: url("img/back.png") no-repeat;
+    -webkit-background-size: .27rem;
+    background-size: .27rem;
+}
+.index{
+    padding-top: .2rem;
+}
+.index .logo{
+    background: url("img/logo.png") no-repeat;
+    -webkit-background-size:100%;
+    background-size:100%;
+    width: .9rem;
+    height: .35rem;
+    margin: 0 auto;
+}
+.content{
+    font-size:.15rem;
+    margin:.8rem .2rem;
+}
+.icon{
+    font-size:.12rem;
+    text-align: center;
+}
+.left{
+    float: left;
+    margin-left: .2rem;
+}
+.right{
+    float: right;
+    margin-right: .2rem;
+}
+.picture{
+    width: .42rem;
+    height: .42rem;
+    margin: 0 auto;
+}
+.left .group{
+    background: url("img/group.png") no-repeat;
+    -webkit-background-size:100%;
+    background-size:100%;
+}
+.right .grapes{
+    background: url("img/grapes.png") no-repeat;
+    -webkit-background-size:100%;
+    background-size:100%;
+}
